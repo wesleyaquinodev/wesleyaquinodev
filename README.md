@@ -9,7 +9,6 @@ Estou sempre buscando evoluir tecnicamente, aprofundar meus conhecimentos em arq
 - 💻 **Stack principal:** C#, .NET, ASP.NET Core, Angular e Python
 - 🌱 **Aprimorando conhecimentos em:** Arquitetura de software, testes automatizados, segurança de aplicações e CI/CD
 - 🔍 **Interesses:** Desenvolvimento Full Stack, APIs REST, Clean Code, SOLID e DevSecOps
-- 🇧🇷 **Localização:** Brasil
 
 ---
 
