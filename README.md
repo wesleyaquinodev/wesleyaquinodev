@@ -1,4 +1,4 @@
-[pt-br Português](README.md) | [🇺🇸 English](README.en.md)
+[🇧🇷 Português](README.md) | [🇺🇸 English](README.en.md)
 
 # Olá! Eu sou Wesley Aquino Dias 👋
 
