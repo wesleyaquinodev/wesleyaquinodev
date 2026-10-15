@@ -1,78 +1,78 @@
-# Hey, I'm Wesley Aquino Dias! 👋
+# Olá! Eu sou Wesley Aquino Dias 👋
 
-### Full Stack Developer | C# • .NET • Angular • Python
+### Desenvolvedor Full Stack | C# • .NET • Angular • Python
 
-I'm a software developer passionate about building useful, scalable, and maintainable applications. I work across backend and frontend development, focusing on clean code, software architecture, API development, and continuous learning.
+Sou desenvolvedor de software com interesse em construir aplicações úteis, seguras e bem estruturadas. Trabalho com desenvolvimento Back-end e Front-end, buscando aplicar boas práticas de programação, princípios de engenharia de software e soluções que atendam a necessidades reais.
 
-I enjoy turning ideas into real projects, exploring new technologies, and applying software engineering best practices to solve real-world problems.
+Estou sempre buscando evoluir tecnicamente, aprofundar meus conhecimentos em arquitetura de software e transformar ideias em aplicações funcionais e sustentáveis.
 
-- 🔭 **Currently working on:** CodaSeguroVibeCode (CSVC)
-- 🌱 **Currently learning:** Software architecture, automated testing, application security, and CI/CD
-- 💻 **Main stack:** C#, .NET, ASP.NET Core, Angular, TypeScript, and SQL
-- 🎯 **Interests:** Full Stack Development, API Design, Clean Architecture, DevSecOps, and Open Source
-- 📍 **Based in:** Brazil 🇧🇷
+- 💻 **Stack principal:** C#, .NET, ASP.NET Core, Angular e Python
+- 🌱 **Aprimorando conhecimentos em:** Arquitetura de software, testes automatizados, segurança de aplicações e CI/CD
+- 🔍 **Interesses:** Desenvolvimento Full Stack, APIs REST, Clean Code, SOLID e DevSecOps
+- 🇧🇷 **Localização:** Brasil
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias e ferramentas
 
-**Backend**
+### Back-end
 - C#
 - .NET / ASP.NET Core
-- RESTful APIs
+- APIs REST
 - Entity Framework Core
-- Python / Flask
+- Python
+- Flask
 
-**Frontend**
+### Front-end
 - Angular
 - TypeScript
 - JavaScript
-- HTML5 / CSS3
-- Responsive Web Design
+- HTML5
+- CSS3
+- Design responsivo
 
-**Databases**
+### Banco de dados
 - SQL Server
 - SQLite
-- PostgreSQL — learning and project development
+- PostgreSQL
 
-**Tools & DevOps**
-- Git & GitHub
+### DevOps e ferramentas
+- Git e GitHub
 - Docker
 - Linux
 - AWS EC2
 - Cloudflare Workers
-- CI/CD — learning and implementation
 
-**Software Engineering**
-- Object-Oriented Programming (OOP)
-- SOLID Principles
+### Engenharia de software
+- Programação Orientada a Objetos (POO)
+- Princípios SOLID
 - Clean Code
-- Layered Architecture
-- Automated Testing
-- API Security
-
-
-## 📚 What I'm Focused On
-
-- Building robust backend APIs with C# and ASP.NET Core.
-- Developing modern web interfaces with Angular and TypeScript.
-- Improving my understanding of software architecture and design principles.
-- Writing maintainable code and automated tests.
-- Learning secure development practices and application security.
-- Understanding deployment workflows, Docker, and CI/CD pipelines.
-- Strengthening problem-solving skills through algorithms and programming challenges.
+- Arquitetura em camadas
+- Testes automatizados
+- Segurança de aplicações
 
 ---
 
-## 📊 GitHub
+## 🎯 Foco de desenvolvimento
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wesleyaquinodev)](https://github.com/SEU_USUARIO_GITHUB)
+- Desenvolver APIs robustas e organizadas com C# e ASP.NET Core.
+- Criar interfaces modernas utilizando Angular e TypeScript.
+- Construir aplicações integrando front-end, back-end e bancos de dados.
+- Aprimorar conhecimentos em arquitetura de software e padrões de projeto.
+- Escrever código legível, testável e de fácil manutenção.
+- Estudar segurança de aplicações e boas práticas de desenvolvimento.
+- Aprender e aplicar processos de deploy, Docker e integração e entrega contínuas (CI/CD).
 
 ---
 
-## 🤝 Let's Connect
+## 📚 Aprendizado contínuo
 
-I'm always interested in learning, collaborating, sharing knowledge, and building software that solves real problems.
+Acredito que evoluir como desenvolvedor vai além de aprender novas tecnologias. Busco compreender os fundamentos, tomar decisões técnicas conscientes e desenvolver soluções que sejam fáceis de manter e evoluir.
 
-**Let's build something meaningful!** 🚀
+---
 
+## 🤝 Vamos nos conectar!
+
+Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outros profissionais da área de tecnologia.
+
+**Construindo soluções, um passo de cada vez.** 🚀
