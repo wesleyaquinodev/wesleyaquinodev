@@ -1,77 +1,79 @@
+[pt-br Português](README.md) | [🇺🇸 English](README.en.md)
+
 # Olá! Eu sou Wesley Aquino Dias 👋
 
 ### Desenvolvedor Full Stack | C# • .NET • Angular • Python
 
-Sou desenvolvedor de software com interesse em construir aplicações úteis, seguras e bem estruturadas. Trabalho com desenvolvimento Back-end e Front-end, buscando aplicar boas práticas de programação, princípios de engenharia de software e soluções que atendam a necessidades reais.
+Sou desenvolvedor de software apaixonado por tecnologia e pela criação de aplicações úteis, seguras e bem estruturadas.
 
-Estou sempre buscando evoluir tecnicamente, aprofundar meus conhecimentos em arquitetura de software e transformar ideias em aplicações funcionais e sustentáveis.
+Tenho interesse em desenvolvimento Back-end e Front-end, arquitetura de software, boas práticas de programação e construção de soluções que resolvam problemas reais.
 
-- 💻 **Stack principal:** C#, .NET, ASP.NET Core, Angular e Python
-- 🌱 **Aprimorando conhecimentos em:** Arquitetura de software, testes automatizados, segurança de aplicações e CI/CD
-- 🔍 **Interesses:** Desenvolvimento Full Stack, APIs REST, Clean Code, SOLID e DevSecOps
+- 💻 **Back-end:** C#, .NET, ASP.NET Core e Python
+- 🎨 **Front-end:** Angular, TypeScript, JavaScript, HTML e CSS
+- 🗄️ **Banco de dados:** SQL Server e SQLite
+- ⚙️ **Ferramentas:** Git, GitHub, Docker e Linux
+- ☁️ **Cloud:** AWS e Cloudflare
+- 🌱 **Estudando:** Arquitetura de software, testes automatizados, segurança e CI/CD
+- 🇧🇷 Brasil
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
-### Back-end
-- C#
-- .NET / ASP.NET Core
-- APIs REST
-- Entity Framework Core
-- Python
-- Flask
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,flask,angular,ts,js,html,css,sqlserver,sqlite,git,github,docker,linux,aws,cloudflare" alt="Tecnologias e ferramentas" />
+</p>
 
-### Front-end
-- Angular
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- Design responsivo
+## 🚀 Projetos em destaque
 
-### Banco de dados
-- SQL Server
-- SQLite
-- PostgreSQL
+### 🌐 ASM Assessoria em Licitações
 
-### DevOps e ferramentas
-- Git e GitHub
-- Docker
-- Linux
-- AWS EC2
-- Cloudflare Workers
+Landing page institucional desenvolvida com foco em uma experiência mobile-first, priorizando responsividade, acessibilidade e apresentação clara dos serviços da empresa.
 
-### Engenharia de software
-- Programação Orientada a Objetos (POO)
-- Princípios SOLID
-- Clean Code
-- Arquitetura em camadas
-- Testes automatizados
-- Segurança de aplicações
+- **Tecnologias:** HTML5, CSS3 e JavaScript
+- **Destaque:** Design responsivo com abordagem mobile-first
+- **Status:** Publicado
 
----
+🔗 [Acessar o site](https://aamsconsultoria.com.br/)
 
-## 🎯 Foco de desenvolvimento
+### 🛡️ CodaSeguroVibeCode (CSVC)
 
-- Desenvolver APIs robustas e organizadas com C# e ASP.NET Core.
-- Criar interfaces modernas utilizando Angular e TypeScript.
-- Construir aplicações integrando front-end, back-end e bancos de dados.
-- Aprimorar conhecimentos em arquitetura de software e padrões de projeto.
-- Escrever código legível, testável e de fácil manutenção.
-- Estudar segurança de aplicações e boas práticas de desenvolvimento.
-- Aprender e aplicar processos de deploy, Docker e integração e entrega contínuas (CI/CD).
+Plataforma em desenvolvimento voltada à segurança no desenvolvimento de software com IA, com foco em *vibe coding*. A proposta é ajudar desenvolvedores a ampliar seu conhecimento técnico, compreender vulnerabilidades e adotar práticas mais seguras ao criar aplicações com auxílio de inteligência artificial.
+
+- **Front-end:** Angular e TypeScript
+- **Back-end:** C# e ASP.NET Core
+- **Foco:** Segurança de aplicações, aprendizado técnico e desenvolvimento seguro
+- **Objetivo:** Tornar conceitos de segurança mais acessíveis para quem desenvolve com IA
+
+**Status:** Em desenvolvimento
+
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=wesleyaquinodev&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Estatísticas do GitHub de Wesley" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyaquinodev&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=wesleyaquinodev&theme=tokyonight&hide_border=true" alt="Sequência de contribuições no GitHub" />
+</p>
 
 ---
 
-## 📚 Aprendizado contínuo
+## 🎯 Foco profissional
 
-Acredito que evoluir como desenvolvedor vai além de aprender novas tecnologias. Busco compreender os fundamentos, tomar decisões técnicas conscientes e desenvolver soluções que sejam fáceis de manter e evoluir.
+- Desenvolver APIs REST com C# e ASP.NET Core.
+- Criar interfaces web modernas com Angular e TypeScript.
+- Aplicar princípios SOLID e Clean Code.
+- Desenvolver aplicações integradas a bancos de dados.
+- Aprimorar conhecimentos em arquitetura, testes e segurança.
+- Aprender continuamente sobre deploy, Docker e pipelines CI/CD.
 
 ---
 
-## 🤝 Vamos nos conectar!
+## 🤝 Vamos nos conectar?
 
-Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outros profissionais da área de tecnologia.
+Gosto de aprender, compartilhar conhecimentos e transformar ideias em soluções através da programação.
 
-**Construindo soluções, um passo de cada vez.** 🚀
+**Evoluindo constantemente como desenvolvedor.** 🚀
